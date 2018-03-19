@@ -1,0 +1,14 @@
+{
+  "name": "WLC Memory",
+  "short_name": "WLC Memory",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "icons": [{
+    "src": "assets/imgs/logo_only.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#33acdb",
+  "theme_color": "#33acdb",
+  "gcm_sender_id": "730190443565"
+}
